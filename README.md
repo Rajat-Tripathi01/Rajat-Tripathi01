@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rajat-Tripathi123](https://github.com/Rajat-Tripathi123)
 
-- 📫 How to reach me **rt3772312@gmail.com**
+- 📫 How to reach me **rajattripathi4425@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
