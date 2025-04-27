@@ -1,3 +1,4 @@
+![logo](https://raw.githubusercontent.com/Rajat-Tripathi01/Rajat-Tripathi01/refs/heads/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Rajat Tripathi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
